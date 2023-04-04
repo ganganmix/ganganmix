@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=ganganmix&show_icons=true&theme=transparent)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/ganganmix/count.svg)
+
