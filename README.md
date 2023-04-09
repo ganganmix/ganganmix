@@ -2,6 +2,8 @@
 
 > 学的杂且浅，希望大佬带带😭😭😭
 
+b站:https://space.bilibili.com/1510013777
+blog:ganganmix.top
 
 <!--
 **ganganmix/ganganmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
